@@ -6,11 +6,10 @@ $ python工具(用正则匹配批量修改内容)
 $ 顺手写的README模板(不知道为啥就喜欢搞个模板，可能懒吧)
 ```
 
-## node.js工具
-
-<!-- ![error](https://WKnvNs4Ypi8/s400/IMG_0012.jpg)  ![图片加载不出来显示](图片地址) 把图片存到文件夹里，在github打开图片，获取路径 -->
+<!--   ![图片加载不出来显示](图片地址) 把图片存到文件夹里，在github打开图片，获取路径 -->
 
 ### image_combination
+这样的合图![error](https://github.com/1768204470/Image.json_to_Image.plist/blob/master/doc/1.png)
 
 注意：
 - 需要类似于[遨游游览器](http://www.maxthon.cn),很好用的浏览器，原理类似于网络传输管理层，所有消息资源发送需要经过它，所以可以存储资源，(图片，视频，音乐......)
