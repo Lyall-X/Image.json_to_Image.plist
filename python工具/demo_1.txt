@@ -1,0 +1,277 @@
+{
+name = Lang.Store.c00006,
+showAreaId = 0,
+labelId = 0,
+totalBuyLimit = 0,
+desc = Lang.Store.desc0006,
+
+
+items = 
+{
+{
+	id = 6001,
+	item = 26101,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 25, bind = false, oldPrice = 50 }, 
+	},
+},
+
+{
+	id = 6002,
+	item = 26111,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 10, bind = false, oldPrice = 20 }, 
+	},
+},
+
+{
+	id = 6003,
+	item = 26112,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 40, bind = false, oldPrice = 80 }, 
+	},
+},
+
+{
+	id = 6004,
+	item = 26113,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 160, bind = false, oldPrice = 320 }, 
+	},
+},
+
+{
+	id = 6005,
+	item = 26114,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 640, bind = false, oldPrice = 1280 }, 
+	},
+},
+
+{
+	id = 6006,
+	item = 26119,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 25, bind = false, oldPrice = 50 }, 
+	},
+},
+
+{
+	id = 6007,
+	item = 26151,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6008,
+	item = 26161,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6009,
+	item = 26154,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6010,
+	item = 26157,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6011,
+	item = 26164,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6012,
+	item = 26167,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6013,
+	item = 26172,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6014,
+	item = 26173,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6015,
+	item = 26301,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 5, bind = false, oldPrice = 10 }, 
+	},
+},
+
+{
+	id = 6016,
+	item = 26302,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 40, bind = false, oldPrice = 80 }, 
+	},
+},
+
+{
+	id = 6017,
+	item = 28101,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6018,
+	item = 28102,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 10, bind = false, oldPrice = 20 }, 
+	},
+},
+
+{
+	id = 6019,
+	item = 28111,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6020,
+	item = 28112,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 50, bind = false, oldPrice = 100 }, 
+	},
+},
+
+{
+	id = 6021,
+	item = 22201,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 150, bind = false, oldPrice = 300 }, 
+	},
+},
+
+{
+	id = 6022,
+	item = 22251,
+	quality = 0,
+	strong = 0,
+	singleBuyLimit = 0,
+	price = 
+	{
+		{ spid = "*", type = 2, price = 150, bind = false, oldPrice = 300 }, 
+	},
+},
+
+
+},
+},

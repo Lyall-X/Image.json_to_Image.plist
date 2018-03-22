@@ -1,0 +1,2640 @@
+--SignReward_config
+--#include "..\..\language\langCode.txt" once
+
+SignReward = 
+{
+    [3] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+        [31] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 22,
+			reward = {{type=2,id=2,count=225}},
+        },
+    },
+    [4] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+    },
+    [5] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+        [31] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 22,
+			reward = {{type=2,id=2,count=225}},
+        },
+    },
+    [6] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+    },
+    [7] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+        [31] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 22,
+			reward = {{type=2,id=2,count=225}},
+        },
+    },
+    [8] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+        [31] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 22,
+			reward = {{type=2,id=2,count=225}},
+        },
+    },
+    [9] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+    },
+    [10] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+        [31] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 22,
+			reward = {{type=2,id=2,count=225}},
+        },
+    },
+    [11] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+    },
+    [12] = 
+    {
+        [1] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 10,
+			reward = {{type=2,id=2,count=100}},
+        },
+        [2] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 12,
+			reward = {{type=1,id=26101,count=15}},
+        },
+        [3] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [4] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26151,count=9}},
+        },
+        [5] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [6] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26173,count=9}},
+        },
+        [7] = 
+        {
+            vip_double = 
+            {
+                [1] = 2,
+            },
+            ExtraSignCost = 12,
+			reward = {{type=2,id=2,count=125}},
+        },
+        [8] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26172,count=9}},
+        },
+        [9] = 
+        {
+            vip_double = 
+            {
+                [2] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26201,count=6}},
+        },
+        [10] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26161,count=9}},
+        },
+        [11] = 
+        {
+            vip_double = 
+            {
+                [3] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=9}},
+        },
+        [12] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26157,count=9}},
+        },
+        [13] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=2,id=2,count=150}},
+        },
+        [14] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26164,count=9}},
+        },
+        [15] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [16] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26167,count=9}},
+        },
+        [17] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [18] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26154,count=9}},
+        },
+        [19] = 
+        {
+            vip_double = 
+            {
+                [4] = 2,
+            },
+            ExtraSignCost = 17,
+			reward = {{type=2,id=2,count=175}},
+        },
+        [20] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 20,
+			reward = {{type=1,id=26112,count=15}},
+        },
+        [21] = 
+        {
+            vip_double = 
+            {
+                [5] = 2,
+            },
+            ExtraSignCost = 30,
+			reward = {{type=1,id=26201,count=9}},
+        },
+        [22] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=26171,count=9}},
+        },
+        [23] = 
+        {
+            vip_double = 
+            {
+                [6] = 2,
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=30202,count=3}},
+        },
+        [24] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 15,
+			reward = {{type=1,id=22251,count=3}},
+        },
+        [25] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 20,
+			reward = {{type=2,id=2,count=200}},
+        },
+        [26] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28111,count=15}},
+        },
+        [27] = 
+        {
+            vip_double = 
+            {
+                [8] = 2,
+            },
+            ExtraSignCost = 50,
+			reward = {{type=1,id=26201,count=15}},
+        },
+        [28] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 25,
+			reward = {{type=1,id=28112,count=15}},
+        },
+        [29] = 
+        {
+            vip_double = 
+            {
+                [9] = 2,
+            },
+            ExtraSignCost = 45,
+			reward = {{type=1,id=30203,count=3}},
+        },
+        [30] = 
+        {
+            vip_double = 
+            {
+            },
+            ExtraSignCost = 35,
+			reward = {{type=1,id=26141,count=6}},
+        },
+        [31] = 
+        {
+            vip_double = 
+            {
+                [7] = 2,
+            },
+            ExtraSignCost = 22,
+			reward = {{type=2,id=2,count=225}},
+        },
+    },
+}
