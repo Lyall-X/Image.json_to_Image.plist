@@ -12,7 +12,7 @@ $ 顺手写的README模板(不知道为啥就喜欢搞个模板，可能懒吧)
 这样的合图![error](https://github.com/1768204470/Image.json_to_Image.plist/blob/master/doc/1.png)
 
 注意：
-- 需要类似于[遨游游览器](http://www.maxthon.cn),很好用的浏览器，原理类似于网络传输管理层，所有消息资源发送需要经过它，所以可以存储资源，(图片，视频，音乐......)
+- 需要类似于[遨游游览器](http://www.maxthon.cn),很好用的浏览器，原理类似于网络传输管理层，所有消息资源发送需要经过它，所以可以存储资源，(图片，视频，音乐......)![error](https://github.com/1768204470/Image.json_to_Image.plist/blob/master/doc/2.png)
 - 网页会将图片加密，各种编辑器加密方式不同，也可以自己写方法加密，生成.fui或.json等等
   网上的图片会经过加密，有非明文加密(看不出来的)，要专门解析
   明文加密的(从结构可以直接看出来的):从网站上能获取到png文件和明文加密json文件
