@@ -6,6 +6,11 @@ $ python工具(用正则匹配批量修改内容)
 $ 顺手写的README模板(不知道为啥就喜欢搞个模板，可能懒吧)
 ```
 
+<<<<<<< HEAD
+=======
+<!--   ![图片加载不出来显示](图片地址) 把图片存到文件夹里，在github打开图片，获取路径 -->
+
+>>>>>>> 46bbfc9e8498d36a2b3b49f4b7535c28432d5027
 ### image_combination
 这样的合图![error](https://github.com/1768204470/Image.json_to_Image.plist/blob/master/doc/1.png)
 
@@ -37,6 +42,7 @@ $ 文件夹里附带两个拆图工具，脚本拆图用Anti_TexturePacker
 
 它只是个readme模板，仅此而已
 
+<<<<<<< HEAD
 ## icon
 
 用于android发布时icon的制作，可以自动裁剪各种大小图片，方便发布
@@ -45,4 +51,6 @@ $ 文件夹里附带两个拆图工具，脚本拆图用Anti_TexturePacker
 
 将xlsx文件内容转换为json格式
 
+=======
+>>>>>>> 46bbfc9e8498d36a2b3b49f4b7535c28432d5027
 **如果你喜欢，请随手点星谢谢**
